@@ -114,7 +114,7 @@ export const EXPERIENCE = [
   {
     id: "ecpl",
     type: "JOB",
-    title: "System Engineer",
+    title: "System Engineer – L1 Production Support",
     company: "ECPL (Expert Callers Pvt Ltd) — Client: Flatworld Solutions",
     duration: "Jan 2026 – Present",
     location: "Bengaluru, India",
